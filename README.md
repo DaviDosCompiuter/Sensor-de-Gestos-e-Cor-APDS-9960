@@ -37,6 +37,7 @@ Proposta da prática:
 Dispositivo que auxiliam pessoas com deficienca à pegar livros em uma biblioteca.
 
 Lista dos itens necessários:
+```
 01 - Arduino
 01 - Sensor de Gestos e de Cor APDS-9960
 01 - ponte h L293D
@@ -45,6 +46,6 @@ Lista dos itens necessários:
 04 - Polias
 01 - Garra
 01 - Estrutura de Ferro
-
+```
 
 
