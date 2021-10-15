@@ -7,7 +7,7 @@ Descrição do projeto:
 
 Sensor de Gestos e de Cor APDS-9960
 
-![img](https://github.com/DaviDosCompiuter/Sensor-de-Gestos-e-Cor-APDS-9960/blob/main/doc/Sensor.png)
+![img](https://github.com/DaviDosCompiuter/Sensor-de-Gestos-e-Cor-APDS-9960/blob/main/docs/datasheets/Sensor.png)
 
 O Sensor de Gestos e de Cor APDS-9960 é utilizado para fazer a medição de luz, cor ambiente, detecção de proximidade e detecção de gestos. O mesmo consegue fazer detecções numa faixa de 10 a 20cm.
 
