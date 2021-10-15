@@ -1,8 +1,6 @@
 # Sensor-de-Gestos-e-Cor-APDS-9960
 Esse Github objetiva aplicar os conhecimentos da disciplina de técnicas de prototipagem do Instituto Federal de Campina Grande para obtenção de nota
 
-A documentação para a reprodução do projeto está em "doc/Artigo.pdf"
-
 Descrição do projeto:
 
 Sensor de Gestos e de Cor APDS-9960
